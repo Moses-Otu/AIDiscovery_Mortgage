@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "builda-plus",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "builda-plus", "start"],
+      "port": 3000
+    }
+  ]
+}
